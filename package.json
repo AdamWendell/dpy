@@ -1,0 +1,24 @@
+{
+  "name": "dpy",
+  "version": "0.0.1",
+  "description": "This is my repo for my future blog.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-cycle": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamWendell/dpy.git"
+  },
+  "author": "Adam Wendell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamWendell/dpy/issues"
+  },
+  "homepage": "https://github.com/AdamWendell/dpy#readme"
+}
