@@ -1,5 +1,4 @@
-
-const path = require('path')
+const path = require('path');
 
 module.exports = {
   context: __dirname,
@@ -21,7 +20,7 @@ module.exports = {
     preLoaders: [
       {
         test: /\.jsx?$/,
-        loader: "eslint-loader",
+        loader: 'eslint-loader',
         exclude: /node_modules/
       }
     ],
@@ -36,4 +35,4 @@ module.exports = {
       }
     ]
   }
-}
+};
