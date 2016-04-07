@@ -4,8 +4,7 @@
   "description": "This is my repo for my future blog.",
   "main": "main.js",
   "dependencies": {
-  },
-  "devDependencies": {
+    "rxjs-es": "^5.0.0-beta.5"
   },
   "devDependencies": {},
   "scripts": {
