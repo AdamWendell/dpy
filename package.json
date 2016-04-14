@@ -4,7 +4,7 @@
   "description": "This is my repo for my future blog.",
   "main": "main.js",
   "dependencies": {
-    "@cycle/core": "^6.0.3"
+    "rethinkdb": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
